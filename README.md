@@ -4,7 +4,8 @@ Empirical Comparison of Hyperparameter Optimization Algorithms in the Context of
 
 Scripts
 
-	hyopt_ray.py : script for running classifiers. Can be run with various hyperparam tuning algorithms
+	hyopt_ray.py : script for comparing hyperparam tuning algorithms on 7 datasets via Ray Tune platform
+	optun_native.py : script for running optuna optimization library, without Ray Tune
 
 Datasets
 
