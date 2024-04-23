@@ -1,3 +1,10 @@
+'''
+
+Author: Shar Lwin Khin
+Date: 23 April 2024
+
+This is the script for evaluating optuna hyperparameter optimization library 
+'''
 import os, time, datetime, logging
 import numpy as np
 import pandas as pd
