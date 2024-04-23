@@ -1,6 +1,7 @@
 # hyopt
-
+This is the software artifacts used in the following paper:
 Empirical Comparison of Hyperparameter Optimization Algorithms in the Context of Optimizing Deep Learning-based Malware Detectors
+
 
 Scripts
 
