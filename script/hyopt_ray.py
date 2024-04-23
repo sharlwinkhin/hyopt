@@ -1,5 +1,8 @@
 """
-Ray Tune: https://docs.ray.io/en/latest/tune/index.html
+Author: Shar Lwin Khin
+Date: 23 April 2024
+
+Reference: Ray Tune - https://docs.ray.io/en/latest/tune/index.html
 
 Dataset: https://www.unb.ca/cic/datasets/
 
